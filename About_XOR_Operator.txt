@@ -1,0 +1,22 @@
+
+
+हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे
+हरे राम हरे राम राम राम हरे हरे
+
+
+// Leetcode 2433
+
+1) 'XOR' stands for Exclusive OR
+2)  Both are same then output is 0 else 1
+    
+    Truth Table :
+    A | B  A ^ B
+    0 | 0   0
+    0 | 1   1
+    1 | 0   1
+    1 | 1   0
+
+3) 'XOR' operations are Commutative and Associative as well
+    for eg : a ^ b = b ^ a (Commutative)
+        eg : (a ^ b) ^ c = a ^ (b ^ c) (Associative)
+

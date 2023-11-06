@@ -1,0 +1,17 @@
+
+Using two pointer Approach 
+
+1) Both pointing to the start index.
+
+2) Move 2nd pointer and check value at that index 
+  a) If it is Zero, just increment 2nd pointer and do nothing.
+  b) If it is Non-Zero, just assign that non-zero value to the 
+     index pointed by 1st pointer then increment both pointers and 'continue' 
+     (to skip 'j' incremental).
+
+3) At last out of loop , place one for loop till n for i , and assign 0 to indexes
+
+
+
+
+
